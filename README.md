@@ -1,10 +1,10 @@
-## Hello there 👋
+## 👋 Hello there!  
 
-I'm Jun, A 1A computer engineering student at the University of Waterloo looking for their first SWE co-op!
+I'm **Jun**, a **1A Computer Engineering student at the University of Waterloo** actively seeking my **first Software Engineering co-op** opportunity.  
 
-- 🔭 I’m currently working on my own .NET movie recommendation app for me and my friends!
-- 🌱 I’m currently learning C#, .NET, and Raspberry Pi.
-- 💬 Ask me about MERN, clean code/architecture, REST APIs, and .NET :)
-- 📫 How to reach me: j2978li@uwaterloo.ca
-- 😄 Pronouns: he/him
+- 🔭 Currently building a **.NET-based movie recommendation app** for me and my friends.  
+- 🌱 Learning **C#**, **.NET**, and experimenting with **Raspberry Pi** projects.  
+- 💬 Always happy to chat about **MERN stack**, **clean code & architecture**, **REST APIs**, and **.NET development**.  
+- 📫 Reach me at: **j2978li@uwaterloo.ca**  
+- 😄 Pronouns: **he/him**  
 
