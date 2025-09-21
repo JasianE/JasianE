@@ -7,3 +7,5 @@ I'm **Jun**, a **1A Computer Engineering student at the University of Waterloo**
 - 💬 Always happy to chat about **MERN stack**, **clean code & architecture**, **REST APIs**, and **.NET development**.  
 - 📫 Reach me at: **j2978li@uwaterloo.ca**   
 
+Also check out my old highschool portfolio website! :D
+https://portfoliojunli.web.app/
